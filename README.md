@@ -72,7 +72,9 @@ The code simulates a step input and plots:
 <p align="center">
   <img src="./flight_co.jpg" alt="LQR control result" width="70%">
 </p>
-
+<p align="center">
+  <img src="./Screenshot 2025-06-30 220355.png" alt="LQR control result" width="70%">
+</p>
 ---
 
 ## 🚀 Getting Started
